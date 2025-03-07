@@ -68,8 +68,9 @@ except Exception as e:
     
 finally:
     ser.close()
-
+```
 % Crear objeto serial
+```
 s = serialport("COM2", 115200);
 configureTerminator(s, "CR");
 s.Parity = "even";
@@ -88,7 +89,7 @@ catch e
 end
 
 clear
-
+```
 6. Pasos Clave
 Inicializar conexión con parámetros correctos
 
