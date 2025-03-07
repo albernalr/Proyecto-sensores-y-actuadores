@@ -6,6 +6,8 @@
 
 Repositorio académico para el control de servomotores XINJE DS2-20P7 mediante comunicación serial RS232/RS485, desarrollado en el Laboratorio de Control de la Universidad Nacional de Colombia.
 
+
+
 ## Características principales ✨
 - 🔌 Configuración detallada del servo drive Xinje DS2-20P7-AS
 - 📡 Protocolos de comunicación Modbus RTU y comandos directos
